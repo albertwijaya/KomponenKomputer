@@ -2,7 +2,7 @@
   "name": "prism",
   "main": [
     "prism.js",
-    "themes/prism.css"
+    "prism.css"
   ],
   "homepage": "http://prismjs.com",
   "authors": "Lea Verou",
@@ -20,13 +20,14 @@
     "download.js",
     "prefixfree.min.js",
     "utopia.js",
-    "code.js"
+    "code.js",
+    "components.js"
   ],
-  "_release": "534f34cd35",
+  "_release": "7fd4aca697",
   "_resolution": {
     "type": "branch",
     "branch": "gh-pages",
-    "commit": "534f34cd35526481e4a32ac4d1eaf447a5a64bf2"
+    "commit": "7fd4aca697aa157f7f072a5da53d977720440d2b"
   },
   "_source": "git://github.com/LeaVerou/prism.git",
   "_target": "gh-pages",
