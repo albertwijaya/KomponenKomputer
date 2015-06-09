@@ -1,0 +1,164 @@
+SPRINT 1
+
+DAY 1
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+-
+Apa yang dikerjakan Hari ini?   
+- membuat index dan pengertian komponen komputer
+
+Ada masalah dalam pengerjaan tugas?
+- kesulitan dalam push.
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+-
+Apa yang dikerjakan Hari ini?   
+- Pengertian Hardware 
+
+Ada masalah dalam pengerjaan tugas?
+- masih belum terbiasa dengan push dan pull.
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+-
+Apa yang dikerjakan Hari ini?   
+- Pengertian Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- masih belum terbiasa dengan push dan pull.
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+-
+Apa yang dikerjakan Hari ini?   
+- Pengertian Software
+
+Ada masalah dalam pengerjaan tugas?
+- masih belum terbiasa dengan push dan pull.
+
+	PROGRESS HARIAN 
+
+1. PUSH : Index (Albert Wijaya)
+2. PUSH : Pengertian Hardware (Ricky Wijaya)
+3. PUSH : Pengertian Brainware (Ismail Gohzali)
+4. PUSH : Pengertian Software (David Tjin)
+5. PUSH : Pengertian Komponen Komputer (Albert Wijaya)
+
+DAY 2
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+- membuat index dan pengertian komponen komputer
+
+Apa yang dikerjakan Hari ini?   
+- sejarah dan perkembangan komputer.
+
+Ada masalah dalam pengerjaan tugas?
+- masih ada kesulitan dalam push.
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+- Pengertian Hardware
+
+Apa yang dikerjakan Hari ini?   
+- Pengertian Hardware 
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+- Pengertian Brainware
+
+Apa yang dikerjakan Hari ini?   
+- Pengertian Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- masih belum terbiasa dengan push.
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+- Pengertian Software
+
+Apa yang dikerjakan Hari ini?   
+- Pengertian Software
+
+Ada masalah dalam pengerjaan tugas?
+- masih belum terbiasa dengan push dan pull.
+
+	PROGRESS HARIAN 
+
+1. PUSH : Sejarah dan Perkembangan Komputer (Albert Wijaya)
+2. PUSH : Pengertian Hardware (Ricky Wijaya)
+3. PUSH : Pengertian Brainware (Ismail Gohzali)
+4. PUSH : Pengertian Software (David Tjin)
+
+DAY 3
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+- sejarah dan perkembangan komputer.
+
+Apa yang dikerjakan Hari ini?   
+- sejarah dan perkembangan komputer.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+- Pengertian Hardware
+Apa yang dikerjakan Hari ini?   
+- Pengertian Hardware 
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+- Pengertian Brainware
+
+Apa yang dikerjakan Hari ini?   
+- Pengertian Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+- Pengertian Software
+
+Apa yang dikerjakan Hari ini?   
+- Pengertian Software
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+	PROGRESS HARIAN 
+
+1. PUSH : Sejarah dan Perkembangan Komputer (Albert Wijaya)
+2. PUSH : Pengertian Hardware (Ricky Wijaya)
+3. PUSH : Pengertian Brainware (Ismail Gohzali)
+4. PUSH : Pengertian Software (David Tjin)
+
+
