@@ -331,3 +331,171 @@ Ada masalah dalam pengerjaan tugas?
 4. PUSH : Jenis Software (David Tjin)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SPRINT 3
+
+DAY 1
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+- Awal Sejarah Komputer : Alat Hitung
+
+Apa yang dikerjakan Hari ini?   
+- Awal Sejarah Komputer : Alat Hitung
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+- Contoh Hardware : Input Device
+
+Apa yang dikerjakan Hari ini?   
+- Contoh Hardware : Input Device
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+- Komponen Brainware
+
+Apa yang dikerjakan Hari ini?   
+- Komponen Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+- Jenis Software
+
+Apa yang dikerjakan Hari ini?   
+- Jenis Software
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+	PROGRESS HARIAN 
+
+1. PUSH : Awal Sejarah Komputer : Alat Hitung (Albert Wijaya)
+2. PUSH : Input Device (Ricky Wijaya)
+3. PUSH : Komponen Brainware (Ismail Gohzali)
+4. PUSH : Jenis Software (David Tjin)
+
+
+DAY 2
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+- Awal Sejarah Komputer : Alat Hitung
+
+Apa yang dikerjakan Hari ini?   
+- Generasi Komputer
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+- Contoh Hardware : Input Device
+
+Apa yang dikerjakan Hari ini?   
+- Contoh Hardware : Input Device
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+- Komponen Brainware
+
+Apa yang dikerjakan Hari ini?   
+- Komponen Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+- Jenis Software
+
+Apa yang dikerjakan Hari ini?   
+- Jenis Software :Perangkat Lunak Sistem
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+	PROGRESS HARIAN 
+
+1. PUSH : Generasi Komputer (Albert Wijaya)
+2. PUSH : Contoh Hardware : Input Device (Ricky Wijaya)
+3. PUSH : Komponen Brainware (Ismail Gohzali)
+4. PUSH : Jenis Software :Perangkat Lunak Sistem (David Tjin)
+
+DAY 3
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+- Generasi Komputer
+
+Apa yang dikerjakan Hari ini?   
+- Generasi Komputer
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+- Contoh Hardware : Input Device
+
+Apa yang dikerjakan Hari ini?   
+- Contoh Hardware : Input Device
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+- Komponen Brainware
+
+Apa yang dikerjakan Hari ini?   
+- Komponen Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+- Jenis Software :Perangkat Lunak Sistem
+
+Apa yang dikerjakan Hari ini?   
+- Jenis Software : Real Time Software
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+	PROGRESS HARIAN 
+
+1. PUSH : Generasi Komputer (Albert Wijaya)
+2. PUSH : Contoh Hardware : Input Device (Ricky Wijaya)
+3. PUSH : Komponen Brainware (Ismail Gohzali)
+4. PUSH : Jenis Software : Real Time Software (David Tjin)
