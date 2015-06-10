@@ -28,7 +28,7 @@ article#presentation
 		ul 
 			li Bentuk perangkat lunak pada awalnya adalah sambungan-sambungan kabel antar bagian dalam komputer.
 			li Penggunaan komputer saat itu masih dilakukan secara langsung, sebuah program untuk sebuah mesin dan digunakan untuk tujuan tertentu.
-			li Penggunaan komputer dilakukan secara langsung dan hasil yang selesaidikerjakan komputer berupa print out.
+			li Penggunaan komputer dilakukan secara langsung dan hasil yang selesaidikerjakan komputer berupa print out.
 			li Proses yang di lakukan di dalam komputer berupa baris instruksi yang diproses secara berurutan.
 
 	section
@@ -36,7 +36,7 @@ article#presentation
 		ul 
 			li Pada era stabil penggunaan komputer sudah cukup meluas dan banyak digunakan di berbagai kalangan.
 			li Baris-baris perintah perangkat lunak yang dijalankan oleh komputer dilakukan secara serempak (multi tasking).
-			li Satu perangkat lunak dapat digunakan oleh banyak pengguna (multi user) secara cepat/langsung (real time).
+			li Satu perangkat lunak dapat digunakan oleh banyak pengguna (multi user) secara cepat/langsung (real time).
 			li Mulai diperkenalkan sistem basis data, yang memisahkan antara program (pemroses) dengan data (yang di proses).	
 
 	
@@ -48,7 +48,7 @@ article#presentation
 			li Automatisasi yang ada di dalam perangkat lunak mengarah ke suatu jenis kecerdasan buatan.
 	
 	section 
-		h2 Periode Modern (1990-sampai sekarang)
+		h2 Periode Modern (1990–sampai sekarang)
 		ul 
 			li Perangkat lunak/software terdapat pada hampir semua perangkat elektronik.
 			li Semua perangkat yang memiliki software dapat saling terhubung secara otomatis.
@@ -61,14 +61,14 @@ article#presentation
 			li Berdasarkan Fungsinya terbagi menjadi:
 			li a. Perangkat lunak Sistem
 			li Perangkat lunak yang kegunaannya lebih banyak ditujukan untuk operasional komputer, seperti:
-			li Sistem operasi seperti Windows, linux, MacOS, dll.
+			li Sistem operasi seperti Windows, linux, MacOS, dll.
 			li Penerjemah bahasa pemrograman (compiler/interpreter) seperti C, Java, C++, C#, dll.
       
 	section 
 		ul 
 			li b. Perangkat lunak Aplikasi
 			li Perangkat lunak yang kegunaannya lebih banyak ditujukan untuk membantu menyelesaikan masalalah-masalah yang dihadapi oleh pemakai.
-			li Program paket yang sudah jadi seperti word, exel, photoshop, dll.
+			li Program paket yang sudah jadi seperti word, exel, photoshop, dll.
 	
 	section
 		ul Jenis Software berdasarkan Aplikasi-nya terbagi atas:
@@ -83,21 +83,21 @@ article#presentation
 	section
 		ul
 			li 1. Perangkat Lunak Sistem (Sistem Software)
-			li Perangkat lunak sistem adalah suatu istilah generic yang merujuk pada jenis perangkat lunak komputer yang mengatur dan mengontrolperangkat keras sehingga perangkat lunak aplikasi dapat melakukan tugasnya.			
+			li Perangkat lunak sistem adalah suatu istilah generik yang merujuk pada jenis perangkat lunak komputer yang mengatur dan mengontrolperangkat keras sehingga perangkat lunak aplikasi dapat melakukan tugasnya.			
 	section
 		ul 
 			li Perangkat lunak sistem dapat di bagi menjadi 3 macam yaitu :
 			li 1. Bahasa pemrograman 
 			li merupakan perangkat lunak yang bertugas mengkonversikan arsitektur dan algoritma yang di rancang manusia ke dalam format yang dapat di jalankan komputer, contoh bahasa pemrograman di antaranya : BASIC, COBOL, Pascal, C++, FORTRA
 			li 2. Sistem Operasi
-			li saat komputer pertama kali di hidupkan, sistem operasilah yang pertama kali di jalankan, sistem operasi yang mengatur seluruh proses, menterjemahkan masukan, mengatur proses internal, memanejemen penggunaan memori dan memberikan keluaran ke peralatan yang bersesuaian, contoh sistem operasi : DOS, Unix, Windows 95, 98, 2000, Xp, Vista , IMB OS/2, Apple System 7
+			li saat komputer pertama kali di hidupkan, sistem operasilah yang pertama kali di jalankan, sistem operasi yang mengatur seluruh proses, menterjemahkan masukan, mengatur proses internal, memanejemen penggunaan memori dan memberikan keluaran ke peralatan yang bersesuaian, contoh sistem operasi : DOS, Unix, Windows 95, 98, 2000, Xp, Vista , IMB OS/2, Apple’s System 7
 			li 3. Utility
 			li sistem operasi yang merupakan perangkat lunak sistem dengan fungsi tertentu, misalnya pemeriksaan perangkat keras (hardware troubleshooting), memeriksa disket yang rusak (bukan rusak fisik), mengatur ulang isi harddisk (partisi, defrag), contoh Utilty adalah Norton Utility.
 
 	section 
 		ul
 			li 2. Perangkat Lunak Waktu Nyata (Real Time Software)
-			li Real time software adalah perangkat lunak yang mengukur, menganalisa, dan mengontrol kejadian nyata yang real time. Elemen dari perangkat lunak real time mencakup komponen pengumpulan data yang mengoleksi dan memformat informasi dari lingkungan eksternal, dan mengawasi komponen yang berkoordinasi dengan komponen lainnya sehingga respon real time dapat dipertahankan. Harus diperhatikan bahwa istilah “real time” berbeda dengan “interactive” atau “timesharing”. Sistem real time harus merespon dalam batasan waktu yang ketat (biasanya 1 milidetik sampai 1 menit). Waktu respon sistem interactive atau timesharing bisa melebihi waktu tertentu tanpa adanya kerusakan pada hasil.
+			li Suatu perangkat lunak yang berfungsi mengendalikan, memonitor atau menganalisis kejadian (event) yang terjadi pada keadaan nyata (seketika).
 
 	section
 		ul
