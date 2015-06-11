@@ -61,8 +61,7 @@ article#presentation
 				img.big(src="images/k2.jpg")
 		Section
 			ul
-				li 2. Generasi Kedua (1960-1964)
-				li Transistor merupakan ciri khas komputer generasi kedua. Bahan bakunya terdiri atas tiga lapis, yaitu: "basic", "collector" dan "emmiter". Transistor merupakan singkatan dari Transfer Resistor, yang berarti dengan mempengaruhi daya tahan antara dua dari tiga lapisan, maka daya (resistor) yang ada pada lapisan berikutnya dapat pula dipengaruhi. Dengan demikian, fungsi transistor adalah sebagai penguat sinyal. Sebagai komponen padat, tansistor mempunyai banyak keunggulan seperti misalnya: tidak mudah pecah, tidak menyalurkan panas. dan dengan demikian, komputer yang ada menjadi lebih kecil dan lebih murah.
+				li Transistor merupakan ciri khas komputer generasi kedua. Bahan bakunya terdiri atas tiga lapis, yaitu: "basic", collector” dan “emmiter”. Transistor merupakan singkatan dari Transfer Resistor, yang berarti dengan mempengaruhi daya tahan antara dua dari tiga lapisan, maka daya (resistor) yang ada pada lapisan berikutnya dapat pula dipengaruhi. Dengan demikian, fungsi transistor adalah sebagai penguat sinyal. Sebagai komponen padat, tansistor mempunyai banyak keunggulan seperti misalnya: tidak mudah pecah, tidak menyalurkan panas. dan dengan demikian, komputer yang ada menjadi lebih kecil dan lebih murah.
 				li Pada tahun 1960-an, IBM memperkenalkan komputer komersial yang memanfaatkan transistor dan digunakan secara luas mulai beredar dipasaran. Komputer IBM- 7090 buatan Amerika Serikat merupakan salah satu komputer komersial yang memanfaatkan transistor. Komputer ini dirancang untuk menyelesaikan segala macam pekerjaan baik yang bersifat ilmiah ataupun komersial. Karena kecepatan dan kemampuan yang dimilikinya, menyebabkan IBM 7090 menjadi sangat popular. Komputer generasi kedua lainnya adalah: IBM Serie 1400, NCR Serie 304, MARK IV dan Honeywell Model 800.
 
 	
