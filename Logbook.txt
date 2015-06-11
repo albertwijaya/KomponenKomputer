@@ -161,6 +161,7 @@ Ada masalah dalam pengerjaan tugas?
 3. PUSH : Pengertian Brainware (Ismail Gohzali)
 4. PUSH : Pengertian Software (David Tjin)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SPRINT 2
 
@@ -219,7 +220,6 @@ Ada masalah dalam pengerjaan tugas?
 3. PUSH : Pengertian Brainware (Ismail Gohzali)
 4. PUSH : Jenis Software (David Tjin)
 
-
 DAY 2
 	DAILY SCRUM MEETING
 
@@ -228,7 +228,7 @@ Kemarin Mengerjakan Apa ?
 - Awal Sejarah Komputer
 
 Apa yang dikerjakan Hari ini?   
-- Awal Sejarah Komputer : Alat Hitung
+- Awal Sejarah Komputer
 
 Ada masalah dalam pengerjaan tugas?
 - Tidak ada..
@@ -270,12 +270,67 @@ Ada masalah dalam pengerjaan tugas?
 
 	PROGRESS HARIAN 
 
-1. PUSH : Awal Sejarah Komputer : Alat Hitung (Albert Wijaya)
+1. PUSH : Awal Sejarah Komputer (Albert Wijaya)
 2. PUSH : Jenis Hardware  (Ricky Wijaya)
 3. PUSH : Brainware : Komponen Brainware (Ismail Gohzali)
 4. PUSH : Jenis Software (David Tjin)
 
 DAY 3
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+- Awal Sejarah Komputer
+
+Apa yang dikerjakan Hari ini?   
+- Awal Sejarah Komputer : Alat Hitung
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+- Jenis Hardware
+
+Apa yang dikerjakan Hari ini?   
+- Jenis Hardware 
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+- Brainware : Komponen Brainware
+
+Apa yang dikerjakan Hari ini?   
+- Brainware : Komponen Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+- Jenis Software
+
+Apa yang dikerjakan Hari ini?   
+- Jenis Software
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+	PROGRESS HARIAN 
+
+1. PUSH : Awal Sejarah Komputer : Alat Hitung (Albert Wijaya)
+2. PUSH : Jenis Hardware  (Ricky Wijaya)
+3. PUSH : Brainware : Komponen Brainware (Ismail Gohzali)
+4. PUSH : Jenis Software (David Tjin)
+
+DAY 4
 	DAILY SCRUM MEETING
 
 Albert Wijaya:
