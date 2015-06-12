@@ -83,7 +83,7 @@ article#presentation
 	section
 		ul
 			li 1. Perangkat Lunak Sistem (Sistem Software)
-			li Perangkat lunak sistem adalah suatu istilah generic yang merujuk pada jenis perangkat lunak komputer yang mengatur dan mengontrolperangkat keras sehingga perangkat lunak aplikasi dapat melakukan tugasnya.			
+			li Perangkat lunak sistem adalah suatu istilah generic yang merujuk pada jenis perangkat lunak komputer yang mengatur dan mengontrolperangkat keras sehingga perangkat lunak aplikasi dapat melakukan tugasnya.			
 	section
 		ul 
 			li Perangkat lunak sistem dapat di bagi menjadi 3 macam yaitu :
@@ -97,34 +97,37 @@ article#presentation
 	section 
 		ul
 			li 2. Perangkat Lunak Waktu Nyata (Real Time Software)
-			li Real time software adalah perangkat lunak yang mengukur, menganalisa, dan mengontrol kejadian nyata yang real time. Elemen dari perangkat lunak real time mencakup komponen pengumpulan data yang mengoleksi dan memformat informasi dari lingkungan eksternal, dan mengawasi komponen yang berkoordinasi dengan komponen lainnya sehingga respon real time dapat dipertahankan. Harus diperhatikan bahwa istilah “real time” berbeda dengan “interactive” atau “timesharing”. Sistem real time harus merespon dalam batasan waktu yang ketat (biasanya 1 milidetik sampai 1 menit). Waktu respon sistem interactive atau timesharing bisa melebihi waktu tertentu tanpa adanya kerusakan pada hasil.
+			li Real time software adalah perangkat lunak yang mengukur, menganalisa, dan mengontrol kejadian nyata yang real time. Elemen dari perangkat lunak real time mencakup komponen pengumpulan data yang mengoleksi dan memformat informasi dari lingkungan eksternal, dan mengawasi komponen yang berkoordinasi dengan komponen lainnya sehingga respon real time dapat dipertahankan. Harus diperhatikan bahwa istilah real time berbeda dengan interactive atau timesharing. Sistem real time harus merespon dalam batasan waktu yang ketat (biasanya 1 milidetik sampai 1 menit). Waktu respon sistem interactive atau timesharing bisa melebihi waktu tertentu tanpa adanya kerusakan pada hasil.
 
 	section
 		ul
 			li 3. Perangkat Lunak Bisnis (Business Software)
 			li Perangkat lunak yang memberikan fasilitas operasi untuk bisnis atau fasilitas pengambilan keputusan manajemen.
-			li contoh : sistem akuntansi, inventory, payroll dan lain-lain.
+			li contoh : sistem akuntansi, inventory, payroll dan lain-lain.
 	
 	section
 		ul 4. Perangat Lunak Rekayasa dan Sains (Engineering and Scientific Software)
-		li Perangkat lunak yang digunakan di dalam bidang aplikasi teknik dan kerekayasaan. Perangkat lunak jenis ini biasanya berhubungan dengan komputasi data numerik, CAD (Computer Aided Design), simulasi sistem, dan lain-lain. 
-		Li contoh : AutoCAD
-	Section
+			li Perangkat lunak yang digunakan di dalam bidang aplikasi teknik dan kerekayasaan. 
+			li Perangkat lunak jenis ini biasanya berhubungan dengan komputasi data numerik, CAD (Computer Aided Design), simulasi sistem, dan lain-lain.
+			li karakteristik engineering dan scientific software adalah digunakannya sejumlah algoritma yang rumit. Lingkup aplikasi mulai dari astronomi hingga vulkanologi, dari biologi molekuler hingga pabrikan otomatis. Aplikasi barunya berupa sistem simulasi dan sistem interaksi lainnya yang bersifat real-time. 
+			li contoh : AutoCAD
+
+	section
 		Ul 5. Embedded Perangkat lunak yang ditanam pada suatu chip (EEPROM).
 			li Perangkat lunak ini terintegrasi dengan perangkat keras dan berfungsi mengatur kinerja dari perangkat keras tersebut.
-			li contoh : microwave oven, telpon genggam, pengaturan avionik pesawat udara, dan lain-lain.
+			li contoh : microwave oven, telpon genggam, pengaturan avionik pesawat udara, dan lain-lain.
 
 	section 
 		Ul
 			Li 6. Perangkat Lunak Komputer Pribadi (Personal Computer Software)
 			li Banyak digunakan pada aplikasi yang bersifat perorangan
-			li contoh : pengolah kata, spreadsheet, game, DBMS dan lain-lain.
+			li contoh : pengolah kata, spreadsheet, game, DBMS dan lain-lain.
 
 	section 
 		Ul
 			Li 7. Perangkat Lunak Intelegensia Buatan (Artificial Intelligent Software)
 			li Dibuat dengan menggunakan teknik algoritma non-numerik untuk memecahkan masalah yang kompleks, digunakan dalam bidang aplikasi kecerdasan buatan
-			li contoh : game, expert sistem, neural network, dan lain-lain
+			li contoh : game, expert sistem, neural network, dan lain-lain
 
 
 

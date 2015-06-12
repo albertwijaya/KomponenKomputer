@@ -76,7 +76,7 @@ article#presentation
 			li 2. Perangkat Lunak Waktu Nyata (Real Time Software)
 			li 3. Perangkat Lunak Bisnis (Business Software)
 			li 4. Perangkat Lunak Rekayasa dan Sains (Engineering and Scientific Software)
-			li 5. Embedded Software
+			li 5. Perangkat Lunak yang ditanam pada suatu chip (EEPROM)
 			li 6. Perangkat Lunak Komputer Pribadi (Personal Computer Software
 			li 7. Perangkat Lunak Intelegensia Buatan (Artifical Intelligent Software)
 
@@ -113,19 +113,18 @@ article#presentation
 			li contoh : AutoCAD
 
 	section
-		ul 5. Embedded Software
-			li Embedded software merupakan sejenis produk pintar yang saat ini banyak digunakan sebagai alat bantu.
-			li Embedded software digunakan untuk mengatur produk dan sistem untuk konsumen dan pasar industry. 
-			li contoh: fungsi-fungsi digital pada kendaraan seperti alat ukur tangki bensin, tampilan dashboard, sistem rem dll. 
-	section 
-		ul
-			Li 6. Perangkat Lunak Komputer Pribadi (Personal Computer Software)
-			li Merupakan software yang banyak digunakan untuk keperluan pribadi dan perkantoran.
-			li PC software merepresentasikan rancangan interface manusia-komputer yang paling inovatif.
-			li contoh : pengolah kata, spreadsheet, game, DBMS, computer graphic, entertainment, aplikasi bisnis keuangan dan lain-lain.
+		Ul 5. Embedded Perangkat lunak yang ditanam pada suatu chip (EEPROM).
+			li Perangkat lunak ini terintegrasi dengan perangkat keras dan berfungsi mengatur kinerja dari perangkat keras tersebut.
+			li contoh : microwave oven, telpon genggam, pengaturan avionik pesawat udara, dan lain-lain.
 
 	section 
-		ul
+		Ul
+			Li 6. Perangkat Lunak Komputer Pribadi (Personal Computer Software)
+			li Banyak digunakan pada aplikasi yang bersifat perorangan
+			li contoh : pengolah kata, spreadsheet, game, DBMS dan lain-lain.
+
+	section 
+		Ul
 			Li 7. Perangkat Lunak Intelegensia Buatan (Artificial Intelligent Software)
 			li Dibuat dengan menggunakan teknik algoritma non-numerik untuk memecahkan masalah yang kompleks, digunakan dalam bidang aplikasi kecerdasan buatan
 			li contoh : game, expert sistem, neural network, dan lain-lain
