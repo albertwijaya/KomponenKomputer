@@ -554,3 +554,172 @@ Ada masalah dalam pengerjaan tugas?
 2. PUSH : Contoh Hardware : Input Device (Ricky Wijaya)
 3. PUSH : Komponen Brainware (Ismail Gohzali)
 4. PUSH : Jenis Software : Real Time Software (David Tjin)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SPRINT 4
+
+DAY 1
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+- Generasi Komputer
+
+Apa yang dikerjakan Hari ini?   
+- Generasi Komputer Part 2
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+- Contoh Hardware : Input Device
+
+Apa yang dikerjakan Hari ini?   
+- Contoh Hardware : Output Device
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+- Komponen Brainware
+
+Apa yang dikerjakan Hari ini?   
+- Komponen Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+- Jenis Software : Perangkat Lunak Sistem
+
+Apa yang dikerjakan Hari ini?   
+- Jenis Software : Business Software
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+	PROGRESS HARIAN 
+
+1. PUSH : Generasi Komputer Part 2 (Albert Wijaya)
+2. PUSH : Output Device (Ricky Wijaya)
+3. PUSH : Komponen Brainware (Ismail Gohzali)
+4. PUSH : Jenis Software (David Tjin)
+
+
+DAY 2
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+- Generasi Komputer Part 2
+
+Apa yang dikerjakan Hari ini?   
+- Generasi Komputer Part 3
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+- Contoh Hardware : Output Device
+
+Apa yang dikerjakan Hari ini?   
+- Contoh Hardware : Output Device
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+- Komponen Brainware
+
+Apa yang dikerjakan Hari ini?   
+- Komponen Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+- Jenis Software : Business Software
+
+Apa yang dikerjakan Hari ini?   
+- Jenis Software : Engineering and Scientific Software, Personal Computer Software, Artificial Intelligent Software
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+	PROGRESS HARIAN 
+
+1. PUSH : Generasi Komputer Part 3 (Albert Wijaya)
+2. PUSH : Output Device (Ricky Wijaya)
+3. PUSH : Komponen Brainware (Ismail Gohzali)
+4. PUSH : Jenis Software (David Tjin)
+
+DAY 3
+	DAILY SCRUM MEETING
+
+Albert Wijaya:
+Kemarin Mengerjakan Apa ?   
+- Generasi Komputer Part 3
+
+Apa yang dikerjakan Hari ini?   
+- Generasi Komputer Part 3
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+Ricky Wijaya : 
+Kemarin Mengerjakan Apa ?   
+- Contoh Hardware : Output Device
+
+Apa yang dikerjakan Hari ini?   
+- Contoh Hardware : Output Device
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+Ismail Gohzali : 
+Kemarin Mengerjakan Apa ?   
+- Komponen Brainware
+
+Apa yang dikerjakan Hari ini?   
+- Komponen Brainware
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+
+
+David Tjin :
+Kemarin Mengerjakan Apa ?   
+- Jenis Software : Business Software
+
+Apa yang dikerjakan Hari ini?   
+- Jenis Software
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada..
+
+	PROGRESS HARIAN 
+
+1. PUSH : Generasi Komputer Part 3 (Albert Wijaya)
+2. PUSH : Output Device (Ricky Wijaya)
+3. PUSH : Komponen Brainware (Ismail Gohzali)
+4. PUSH : Jenis Software (David Tjin)
