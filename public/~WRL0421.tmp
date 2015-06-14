@@ -142,25 +142,9 @@ article#presentation
 			li 3. Open source
 	
 	section
-		h2 Freeware 
-		ul 
+		ul Freeware
 			li Freeware adalah sebuah software yang bisa di download dan digunakan dengan gratis, tetapi kita sebagai pengguna tidak bisa melihat source code software tersebut karena masih memiliki batasan atas hak cipta pengguna.
 			li Karena softwatre ini bersifat freeware, maka software ini tanpa batasan jumlah dan waktu dalam pemakaiannya. Konten freeware itupun sendiri beragam, yaitu berupa aplikasi (software), dokumen, source code, engine web (wordpress, CMS, PHPBB).
-			li contoh Paint.net, Rocket Dock, Ccleaner, dan lain-lain.
-	section
-		h2 Shareware
-		ul 
-			li Shareware adalah sebuah software yang dapat di download tanpa biaya (gratis) tetapi mempunyai batasan waktu yang ditentukan. Jadi jika pemakaian software ini sudah melebihi batas waktu yang ditentukan, software ini meminta si pengguna membeli full version atau fitur software aslinya.
-			li Shareware ini bertujuan sebagai uji coba suatu software sehingga para pengguna bisa mengetahui software ini sebelum membelinya. Setelah masa uji coba selesai, software bisa saja terkunci dan tidak bisa dipakai lagi atau masih bisa digunakan tetapi hanya bisa beberapa menit lalu di minta untuk membeli softwarenya. Shareware masih dibatasi oleh hak cipta.
-			li Contoh StyleXP, Window Blinds, WinRar, dan lain-lain.
-	section
-		h2 Open Source
-		ul
-			li Open Source adalah software yang dapat di download dan source code-nya dapat dibuka oleh public sehingga pengguna tersebut biasa mengubah dan memperbaiki software tersebut, bahkan dapat dikembangkan secara kolaborasi. 
-			li Berbeda dengan jenis software yang disebutkan diatas, open source software memberikan kebebasan kepada kita untuk menggunakan. mengubah sesuai dengan kebutuhan, mendistribusikan kembali, baik software aslinya maupun yang telah kita ubah. 
-			li Biasanya software bersifat open source menyertakan kode sumber dalam pendistribusiannya. Tujuan pembuatan open source software ini biasanya bukan untuk tujuan komersial, namun lebih ke tujuan social bagaimana sebuah software bisa bermanfaat bagi para pengguna.
-			li Contoh Pidgin, gGo, Inkscape, Linux, Google, gimp dan lain-lain.
-
-
+			li contoh Freeware adalah Paint.net, Rocket Dock, Ccleaner, dan lain-lain.
 include presentation-footer
 include main-footer

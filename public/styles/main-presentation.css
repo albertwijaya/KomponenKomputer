@@ -91,7 +91,7 @@ article#presentation.bespoke-parent {
   margin-top: -300px;
   left: 50%;
   margin-left: -50%;
-  background: #f0f0f0;
+  background: #1dd2d2;
   padding: 40px;
   -webkit-border-radius: 0;
   border-radius: 0;
@@ -226,13 +226,13 @@ ol li.bespoke-bullet {
   transition: width 0.6s ease;
   position: absolute;
   height: 100%;
-  background: #0089f3;
+  background: #10984a;
   -webkit-border-radius: 0 4px 4px 0;
   border-radius: 0 4px 4px 0;
 }
 .emphatic,
 .emphatic .bespoke-slide {
-  background: #f0f0f0;
+  background: #1dd2d2;
 }
 code {
   display: block;
@@ -246,9 +246,9 @@ code.inline {
   padding: 0 !important;
 }
 body {
-  background: #f0f0f0;
-  color: #3a4145;
-  font-family: 'Open Sans', sans-serif;
+  background: #1dd2d2;
+  color: #515d64;
+  font-family: cursive;
 }
 blockquote {
   font-style: italic;
@@ -320,4 +320,8 @@ img.big {
 .agile-no {
   color: #f44;
   font-weight: normal;
+}
+.navbar-default {
+  background-color: #0d4949;
+  border-color: #0d4949;
 }
