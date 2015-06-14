@@ -162,16 +162,5 @@ article#presentation
 			li Contoh Pidgin, gGo, Inkscape, Linux, Google, gimp dan lain-lain.
 
 
-	section
-		h2 Contoh Software
-		ul
-			img(src="images/style1.jpg")
-			img(src="images/cc.jpg")
-			img(src="images/line.png")				
-		ul
-			img(src="images/vlc.jpg")
-			img(src="images/google.jpg")
-
-			
 include presentation-footer
 include main-footer
